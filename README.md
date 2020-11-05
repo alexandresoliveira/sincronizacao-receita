@@ -1,9 +1,6 @@
 # Sincronização Receita
 
 ### Introdução
-Olá!
-
-Meu nome é Alexandre e este é o resultado do teste técnico da Sicred Cas.
 
 ### Tecnologias
 
